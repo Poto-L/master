@@ -5,3 +5,7 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+.idea
+
+.gitignore
