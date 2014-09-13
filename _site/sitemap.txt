@@ -1,0 +1,11 @@
+
+http://boyDemod.github.io/archive.html
+http://boyDemod.github.io/atom.xml
+http://boyDemod.github.io/categories.html
+http://boyDemod.github.io/index.html
+http://boyDemod.github.io/pages.html
+http://boyDemod.github.io/rss.xml
+http://boyDemod.github.io/sitemap.txt
+http://boyDemod.github.io/tags.html
+
+http://boyDemod.github.io/lessons/2011/12/29/jekyll-introduction
